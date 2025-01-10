@@ -1,0 +1,3 @@
+# Unhandled Negative Input in myFunction
+
+This repository demonstrates a common MATLAB error: an unhandled negative input that causes a runtime error. The `myFunction.m` file contains the buggy code. The improved solution is given in `bugSolution.m`. The error occurs because the function doesn't explicitly handle negative inputs, resulting in a generic error message. The solution provides a more informative error message and alternative handling.
